@@ -2,7 +2,8 @@
 
 A full-stack meme generator application built with Spring Boot and vanilla JavaScript. Create, customize, save, and share memes with advanced text styling options.
 
-![Meme Generator Demo](screenshot.png)
+<img width="1196" height="847" alt="Screenshot 2025-11-30 203801" src="https://github.com/user-attachments/assets/4e7767f5-446c-4311-a749-3f9cf933bb63" />
+
 
 ## ✨ Features
 
