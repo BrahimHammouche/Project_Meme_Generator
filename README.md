@@ -89,8 +89,8 @@ The backend will start on `http://localhost:8080`
 
 ## 📁 Project Structure
 ```
-meme-generator/
-├── Project_Meme/                  # Backend (Spring Boot)
+
+Project_Meme/                  # Backend (Spring Boot)
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
